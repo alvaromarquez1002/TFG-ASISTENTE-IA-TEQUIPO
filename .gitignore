@@ -1,0 +1,8 @@
+# Entornos y dependencias
+venv/
+__pycache__/
+.env
+
+# Datos de la empresa (solo subimos el .gitkeep)
+data/*
+!data/.gitkeep
